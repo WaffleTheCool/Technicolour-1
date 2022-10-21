@@ -13,7 +13,7 @@
   "dependencies": [
     {
       "id": "beatsaber-hook",
-      "versionRange": "=2.3.2",
+      "versionRange": "*",
       "additionalData": {
         "extraFiles": [
           "src/inline-hook"
@@ -27,17 +27,17 @@
     },
     {
       "id": "questui",
-      "versionRange": "^0.11.1",
+      "versionRange": "*",
       "additionalData": {}
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.12.0",
+      "versionRange": "*",
       "additionalData": {}
     },
     {
       "id": "chroma",
-      "versionRange": "^2.5.7",
+      "versionRange": "*",
       "additionalData": {
         "includeQmod": true
       }
